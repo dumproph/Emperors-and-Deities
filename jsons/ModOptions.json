@@ -8,4 +8,5 @@
     "maxRiverLength":1024,
     "religionLimitBase":10,
     "religionLimitMultiplier":1
+    "cityWorkRange": 5
     }}
